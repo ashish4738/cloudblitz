@@ -1,3 +1,98 @@
 heloo welcome tree
 huihudhwefhlfsdkfm,
 fegkogjgfewff
+ 1  ls
+    2  git init
+    3  ls
+    4  ls -a
+    5  cat >file1
+    6  git --version
+    7  git --version
+    8  git config --global user.name 'sushant'
+    9  git config --global user.email 'sushant.alkurn'
+   10  git list
+   11  git --list
+   12  git config --list
+   13  ls
+   14  git status
+   15  git add file
+   16  git add file1
+   17  git status
+   18  git commit -m "Hello this my first commit"
+   19  git remote -v
+   20  git remote add https://github.com/ashish4738github/gitdemo.git
+   21  git remote -v
+   22  git remote add origin https://github.com/ashish4738github/gitdemo.git
+   23  git remote -v
+   24  ls
+   25  git status
+   26  git push origin master
+   27  git status
+   28  git push origin master
+   29  cat >file1
+   30  git push origin master
+   31  git status
+   32  git add .
+   33  git commit -m "this change by me"
+   34  git push origin master
+   35  git pull origin master
+   36  ls
+   37  mkdir demo
+   38  cd /demo
+   39  cd demo
+   40   git init
+   41  touch ashi.md
+   42  code .
+   43  git status
+   44  git add ashi.md
+   45  git commit -m "first commit"
+   46  ls
+   47  ls -al
+   48  rm -rf .git
+   49  sudo su
+   50  rm -rf .git
+   51  cd .git
+   52  ls
+   53  git init
+   54  cd .git
+   55  ls
+   56  cd ..
+   57  ls
+   58  cd demo/
+   59  ls
+   60  git --version
+   61  ssh-keygen -t ed25519 -C "ashishgrishma@gmail.com"
+   62  ls -al ~/.ssh~
+   63  cd
+   64  ls -al ~/.ssh~
+   65  ls -la
+   66  cd .ssh/
+   67  ls -al
+   68  $ clip < ~/.ssh/id_ed25519.pub
+   69  clip < ~/.ssh/id_ed25519.pub
+   70  git init
+   71  cd demo/
+   72  ls -a
+   73  cd cloudblitz/
+   74  sudo su
+   75  git init
+   76  git --version
+   77  ls
+   78  git add *
+   79  ls
+   80  cd ..
+   81  cd desktop
+   82  cd ..
+   83  cd ..
+   84  ls
+   85  cd tree1
+   86  git add
+   87  git add *
+   88  ls
+   89  git commit
+   90  git push
+   91  git remote add cloudblitz https://github.com/ashish4738/cloudblitz.git
+   92  git push
+   93  git push cloudblitz
+   94  git history
+   95  history
