@@ -96,3 +96,190 @@ fegkogjgfewff
    93  git push cloudblitz
    94  git history
    95  history
+Launched Amazon EC2 Cloud Instances using Amazon Images (Linux/ RHEL) and configuring launched instances with respect to specific applications.
+Used IAM service for creating user, group and implemented MFA to provide additional security purpose.
+
+
+• Creatingusers and groups using IAM and assigned individual policies to each group.
+Creating and launching EC2 instances with attaching extra volume
+Created and configured elastic load balancer and auto scaling group to distribute the traffic and have a cost efficient faulty tolerant and highly available envirinment
+• Setup and attached/detached EBS volumes to EC2 instances, managed security groups, VPC specific to the environment
+•	Create EBS volumes for storing application files for use with EC2 instances whenever they are mounted to them.
+Create alarm in Cloud Watch service to monitor ec2 instance
+•	Creating S3 buckets in the AWS environment to store files, sometimes which are required to serve static content for a web application
+•	creating  VPC’s and public, private subnets as per requirement and distributed them as groups into various availability zones of the VPC 
+•	Configured S3 buckets with various life cycle policies to archive the infrequently accessed data to storage classes based on requirement
+•	Created and serviced administrator and user accounts on Linux-based systems, managing software deployments
+•	Created NAT gateways and instances to allow communication from the private instances to the internet through bastion hosts.
+•	Created S3 buckets in the AWS environment to store files, sometimes which are required to serve static content for a web application
+•	Configured and maintained web servers.
+•	Responsible for managing code repositories and builds using Git.
+
+. Built deployment pipelines using Jenkins as a frontend for continuous deployment to   
+Local staging and test environments and to production environments, Adding a slave node to Jenkins
+
+• Involved in maintenance and performance of Confidential instances.
+• Involved in designing and developing Confidential, Amazon S3, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, and other services of the AWS infrastructure
+
+
+
+started carrer as aws  cloud intern in cloudbliz techonology. iam respocible to setup and  managing aws infrastructure using various servies like(IAM,EC2,S3, ELB, RDS,VCP, NAT) and also hands on experince in git for version control jenkin for continus intigration and meven for built tool
+
+
+
+Address	Besa Nagpur
+Nagpur, Maharashtra, 440034
+Date of Birth	14-12-1990
+Gender	Male
+Nationality	Indian
+Marital Status	Single
+
+Created and configured elastic load balancer and auto scaling group to distribute the traffic and have a cost efficient faulty tolerant and highly available environment
+
+Knowledge in architecting /automating deployment over infrastructure Proficient with configuration management tools and in developing CI/CD pipeline implementing and supporting of AWS cloud based infrastructure and its solutions. Build automation using Jenkins or other automation tools Server  deployment on AWS
+
+
+  1  ls
+    2  git init
+    3  ls
+    4  ls -a
+    5  cat >file1
+    6  git --version
+    7  git --version
+    8  git config --global user.name 'sushant'
+    9  git config --global user.email 'sushant.alkurn'
+   10  git list
+   11  git --list
+   12  git config --list
+   13  ls
+   14  git status
+   15  git add file
+   16  git add file1
+   17  git status
+   18  git commit -m "Hello this my first commit"
+   19  git remote -v
+   20  git remote add https://github.com/ashish4738github/gitdemo.git
+   21  git remote -v
+   22  git remote add origin https://github.com/ashish4738github/gitdemo.git
+   23  git remote -v
+   24  ls
+   25  git status
+   26  git push origin master
+   27  git status
+   28  git push origin master
+   29  cat >file1
+   30  git push origin master
+   31  git status
+   32  git add .
+   33  git commit -m "this change by me"
+   34  git push origin master
+   35  git pull origin master
+   36  ls
+   37  mkdir demo
+   38  cd /demo
+   39  cd demo
+   40   git init
+   41  touch ashi.md
+   42  code .
+   43  git status
+   44  git add ashi.md
+   45  git commit -m "first commit"
+   46  ls
+   47  ls -al
+   48  rm -rf .git
+   49  sudo su
+   50  rm -rf .git
+   51  cd .git
+   52  ls
+   53  git init
+   54  cd .git
+   55  ls
+   56  cd ..
+   57  ls
+   58  cd demo/
+   59  ls
+   60  git --version
+   61  ssh-keygen -t ed25519 -C "ashishgrishma@gmail.com"
+   62  ls -al ~/.ssh~
+   63  cd
+   64  ls -al ~/.ssh~
+   65  ls -la
+   66  cd .ssh/
+   67  ls -al
+   68  $ clip < ~/.ssh/id_ed25519.pub
+   69  clip < ~/.ssh/id_ed25519.pub
+   70  git init
+   71  git status
+   72  touch readme.md
+   73  cat readme
+   74  vin touchme
+   75  mkdiR ASHISH
+   76  dc ashish
+   77  cd ashish
+   78  cd ..
+   79  git init demo
+   80  cd demo
+   81  git add readme.md
+   82  cd..
+   83  git add readme.md
+   84  git clone gh repo clone ashish4738/cloudblitz
+   85  git clone git@github.com:ashish4738/cloudblitz.git
+   86  ls
+   87  cd git-clone
+   88  cd git-cloudblitz
+   89  cd git cloudblitz
+   90  cd cloudblitz
+   91  touch index.txt
+   92  git add
+   93  git add .
+   94  ls
+   95  git --version
+   96  git config --global user name ashish4738
+   97  git int
+   98  ls
+   99  ls -a
+  100  touch ashish/.txt
+  101  touch 123.txt
+  102  git commit -m "welcome to git"
+  103  git add .
+  104  git status
+  105   mkdir www
+  106  puch www
+  107  push www
+  108  git status
+  109  toouch 111.txt
+  110  touch 111.txt
+  111  git config –global user.name “ashish4738”
+  112  git config user.name “ashish4738”
+  113  git init
+  114  ls
+  115  git add 123.txt
+  116  git commit
+  117  git push git@github.com:ashish4738/cloudblitz.git
+  118  git status
+  119  git add .
+  120  git status
+  121  git cummit -m
+  122  git cummit
+  123  git commit
+  124  git commit
+  125  git commit
+  126  git puch main
+  127  git push main
+  128  git push cloudblitz
+  129  git pull cloudblitz
+  130  git pull origin main
+  131  git commit -m "hello"
+  132  git pull origin main
+  133  git push origin main
+  134  git branch
+  135  git branch dev
+  136  git checkout dev
+  137  git checkout -b feature
+  138  cat 111.txt
+  139  vim 111.txt
+  140  cat 111.txt
+  141  vim 111.txt
+  142  git checkout dev
+  143  git history
+  144  history
