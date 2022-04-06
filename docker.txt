@@ -1,4 +1,4 @@
-Following are the commands which are being covered:
+Following are the commands which are being covered
 
 docker –version
 docker pull
