@@ -1,0 +1,93 @@
+Following are the commands which are being covered
+commans
+
+docker –version
+docker pull
+docker run
+docker ps
+docker ps -a
+docker exec
+docker stop
+docker kill
+docker commit
+docker login
+docker push
+docker images
+docker rm
+docker rmi
+docker build
+
+So, let’s get started:
+
+Docker Commands
+1. docker –version
+
+This command is used to get the currently installed version of docker
+
+Docker_Version - Docker Commands - Edureka
+
+ 
+
+2. docker pull
+
+Usage: docker pull <image name>
+
+This command is used to pull images from the docker repository(hub.docker.com)
+
+Docker_Pull - Docker Commands - Edureka
+
+3. docker run
+
+Usage: docker run -it -d <image name>
+
+This command is used to create a container from an image
+
+docker_run - Docker Commands - Edureka
+
+4. docker ps
+
+This command is used to list the running containers
+
+Course Curriculum
+Docker Certification Training Course
+docker_ps - Docker Commands - Edureka
+
+5. docker ps -a
+
+This command is used to show all the running and exited containers
+
+docker_psa - Docker Commands - Edureka
+
+6. docker exec
+
+Usage: docker exec -it <container id> bash
+
+This command is used to access the running container
+
+docker_exec - Docker Commands - Edureka
+
+7. docker stop
+
+Usage: docker stop <container id>
+
+This command stops a running container
+
+docker_stop - Docker Commands - Edureka
+
+8. docker kill
+
+Usage: docker kill <container id>
+
+This command kills the container by stopping its execution immediately. The difference between ‘docker kill’ and ‘docker stop’ is that ‘docker stop’ gives the container time to shutdown gracefully, in situations when it is taking too much time for getting the container to stop, one can opt to kill it
+
+docker_kill - Docker Commands - Edureka
+
+9. docker commit
+
+Usage: docker commit <conatainer id> <username/imagename>
+
+This command creates a new image of an edited container on the local system
+
+docker_commit - Docker Commands - Edureka
+
+10. docker login
