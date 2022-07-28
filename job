@@ -1,0 +1,17 @@
+name: jjb
+
+on:
+  push:
+    paths:
+      - jenkins/jobs/** # job definitions here, searched recursively
+
+jobs:
+  jjb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: devopsx/gha-jjb@master
+        with:
+          jenkins_token: ${{ secrets.JENKINS_TOKEN }}
+          jjb_dir: jenkins/jobs # same dir with definitions as in push stanza
+          jjb_ini: jenkins/jenkins_jobs.ini
