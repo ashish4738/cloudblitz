@@ -1,0 +1,20 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "Example for creating an S3 Bucket",
+    "Resources": {
+        "MyBucket": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {
+                "BucketName": "my-bucket"
+            }
+        }
+    }
+}
+#yaml
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Example for creating an S3 Bucket
+Resources:
+  MyBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: my-bucket
